@@ -1,1 +1,3 @@
-console.log
+console.logs
+hello world
+today
